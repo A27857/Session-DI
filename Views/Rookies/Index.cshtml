@@ -1,0 +1,70 @@
+@model List<Person>
+
+@{
+  ViewData["Title"] = "Rookies";
+}
+
+<div class="text-left">
+  <h3 class="d-inline-block">Rookies</h3>
+  <a href="@Url.ActionLink("Create", "Rookies")" class="btn btn-primary float-right"><i class="fa fa-plus-square-o mr-2"
+      aria-hidden="true"></i>Creat New Person</a>
+  <table class="table">
+    <thead>
+      <tr>
+        <th scope="col">#</th>
+        <th scope="col">Id</th>
+        <th scope="col">FullName</th>
+        <th scope="col">Gender</th>
+        <th scope="col">BirthDay</th>
+        <th scope="col">Age</th>
+        <th class="text-center">Actions</th>
+      </tr>
+    </thead>
+    <tbody>
+      @{
+        int @index = 1;
+        foreach (var item in Model)
+        {
+          <tr>
+            <th scope="row">@(index++)</th>
+            <td>@item.Id</td>
+            <td>@item.FullNames</td>
+            <td>@item.Gender</td>
+            <td>@item.DateOfBirth.ToString("dd/MM/yyyy")</td>
+            <td>@item.Age</td>
+            <td class="text-center" width=200px>
+              <a href="@Url.ActionLink("Edit", "Rookies", new {id = item.Id})" class="btn btn-secondary btn-sm"
+              role="button"><i class="fa fa-pencil mr-2" aria-hidden="true"></i>Edit</a>
+              <a onclick="Delete(@item.Id)" href="#" class="btn btn-danger btn-sm" role="button"><i
+                class="fa fa-trash-o mr-2" aria-hidden="true"></i>Delete</a>
+            </td>
+          </tr>
+        }
+      }
+    </tbody>
+  </table>
+  <nav aria-label="Page navigation example">
+    <ul class="pagination">
+      <li class="page-item">
+        <a class="page-link" href="#" aria-label="Previous">
+          <span aria-hidden="true">&laquo;</span>
+        </a>
+      </li>
+      <li class="page-item"><a class="page-link" href="#">1</a></li>
+      <li class="page-item"><a class="page-link" href="#">2</a></li>
+      <li class="page-item"><a class="page-link" href="#">3</a></li>
+      <li class="page-item">
+        <a class="page-link" href="#" aria-label="Next">
+          <span aria-hidden="true">&raquo;</span>
+        </a>
+      </li>
+    </ul>
+  </nav>
+</div>
+<script>
+  function Delete(Id) 
+  {
+    if (confirm("Are you sure you want to delete?"))
+      location.href = `/Rookies/Delete?Id= + ${Id}`;
+  }
+</script>
