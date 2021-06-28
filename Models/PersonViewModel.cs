@@ -31,7 +31,7 @@ namespace C__ASP_.Net_Core_MVC_2.Models
 
         public string BirthPlace { get; set; }
 
-        [RegularExpression(@"^([0-9]{9})$", ErrorMessage = "Wrong mobile"!)]
+        [RegularExpression(@"^([0-9]{9,})$", ErrorMessage = "Wrong mobile"!)]
         public string PhoneNumber { get; set; }
 
         [Required]
