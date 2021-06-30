@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LENOVO\\Documents\\C# ASP .Net Core MVC 2\\C# ASP .Net Core MVC 2.csproj": {}
+    "C:\\Users\\LENOVO\\Documents\\C# ASP .Net Core Session DI\\C# ASP .Net Core MVC 2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LENOVO\\Documents\\C# ASP .Net Core MVC 2\\C# ASP .Net Core MVC 2.csproj": {
+    "C:\\Users\\LENOVO\\Documents\\C# ASP .Net Core Session DI\\C# ASP .Net Core MVC 2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\C# ASP .Net Core MVC 2\\C# ASP .Net Core MVC 2.csproj",
+        "projectUniqueName": "C:\\Users\\LENOVO\\Documents\\C# ASP .Net Core Session DI\\C# ASP .Net Core MVC 2.csproj",
         "projectName": "C# ASP .Net Core MVC 2",
-        "projectPath": "C:\\Users\\LENOVO\\Documents\\C# ASP .Net Core MVC 2\\C# ASP .Net Core MVC 2.csproj",
+        "projectPath": "C:\\Users\\LENOVO\\Documents\\C# ASP .Net Core Session DI\\C# ASP .Net Core MVC 2.csproj",
         "packagesPath": "C:\\Users\\LENOVO\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LENOVO\\Documents\\C# ASP .Net Core MVC 2\\obj\\",
+        "outputPath": "C:\\Users\\LENOVO\\Documents\\C# ASP .Net Core Session DI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LENOVO\\AppData\\Roaming\\NuGet\\NuGet.Config"

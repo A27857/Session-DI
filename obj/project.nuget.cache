@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uZodCvPg6mDwlAgunDhpxEezwvLUEDA+H4bdjhiMfItzh8bBUGvLniyNW+dMVRq2sHrpVhfC0y3HALv3D/jOBg==",
+  "dgSpecHash": "gZcEd2o4Yk62PGNEz6FT69NidrijLkidh+dndKwZm5z5znPA2xeOPMHEHx72o6oaPz1vyOlM2egiK87s9O66IA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\C# ASP .Net Core MVC 2\\C# ASP .Net Core MVC 2.csproj",
+  "projectFilePath": "C:\\Users\\LENOVO\\Documents\\C# ASP .Net Core Session DI\\SessionDI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

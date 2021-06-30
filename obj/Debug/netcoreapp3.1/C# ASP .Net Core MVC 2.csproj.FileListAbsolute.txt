@@ -38,3 +38,44 @@ C:\Users\LENOVO\Documents\C# ASP .Net Core MVC 2\obj\Debug\netcoreapp3.1\C# ASP 
 C:\Users\LENOVO\Documents\C# ASP .Net Core MVC 2\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\Create.cshtml.g.cs
 C:\Users\LENOVO\Documents\C# ASP .Net Core MVC 2\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\Index.cshtml.g.cs
 C:\Users\LENOVO\Documents\C# ASP .Net Core MVC 2\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\Edit.cshtml.g.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\bin\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.exe
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\bin\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.deps.json
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\bin\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.runtimeconfig.json
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\bin\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.runtimeconfig.dev.json
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\bin\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.dll
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\bin\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.pdb
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\bin\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.Views.dll
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\bin\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.Views.pdb
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.csprojAssemblyReference.cache
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.AssemblyInfo.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.RazorAssemblyInfo.cache
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.RazorAssemblyInfo.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.TagHelpers.input.cache
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.TagHelpers.output.cache
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.RazorCoreGenerate.cache
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\Create.cshtml.g.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\Edit.cshtml.g.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\Index.cshtml.g.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.RazorTargetAssemblyInfo.cache
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.RazorTargetAssemblyInfo.cs
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.Views.pdb
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\staticwebassets\C# ASP .Net Core MVC 2.StaticWebAssets.Manifest.cache
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\staticwebassets\C# ASP .Net Core MVC 2.StaticWebAssets.xml
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.dll
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.pdb
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.genruntimeconfig.cache
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\C# ASP .Net Core MVC 2.csproj.CopyComplete
+C:\Users\LENOVO\Documents\C# ASP .Net Core Session DI\obj\Debug\netcoreapp3.1\Razor\Views\Rookies\Detail.cshtml.g.cs

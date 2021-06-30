@@ -1,0 +1,13 @@
+﻿@using Microsoft.AspNetCore.Http;
+@inject IHttpContextAccessor HttpContextAccessor;
+@{
+    ViewData["Title"] = "Result Page";
+    var name = HttpContextAccessor.HttpContext.Session.GetString("DELETE_NAME_TEMP");
+}
+<div>
+    <a href="@Url.ActionLink("Index", "Rookies")" class="btn btn-info mr-5"><i class="fa fa-arrow-left mr-2"
+            aria-hidden="true"></i>Back</a>
+    <h3 class="d-inline-block mb-0">@ViewData["Title"]</h3>
+</div>
+<hr />
+<h3 style="color: green;">Person @name was removed from the list successfully!</h3>

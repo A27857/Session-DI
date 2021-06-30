@@ -1,6 +1,4 @@
-using System;
-
-namespace C__ASP_.Net_Core_MVC_2.Models
+namespace SessionDI.Models
 {
     public class ErrorViewModel
     {

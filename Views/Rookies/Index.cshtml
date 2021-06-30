@@ -28,7 +28,9 @@
           <tr>
             <th scope="row">@(index++)</th>
             <td>@item.Id</td>
-            <td>@item.FullNames</td>
+            <td>
+              <a href="@Url.ActionLink("Detail", "Rookies", new {id = item.Id})" style="color:red;">@item.FullNames</a>
+            </td>
             <td>@item.Gender</td>
             <td>@item.DateOfBirth.ToString("dd/MM/yyyy")</td>
             <td>@item.Age</td>
@@ -62,8 +64,7 @@
   </nav>
 </div>
 <script>
-  function Delete(Id) 
-  {
+  function Delete(Id) {
     if (confirm("Are you sure you want to delete?"))
       location.href = `/Rookies/Delete?Id= + ${Id}`;
   }

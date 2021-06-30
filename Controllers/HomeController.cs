@@ -3,9 +3,10 @@ using System.Collections.Generic;
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using C__ASP_.Net_Core_MVC_2.Models;
+using Microsoft.AspNetCore.Http;
+using SessionDI.Models;
 
-namespace C__ASP_.Net_Core_MVC_2.Controllers
+namespace SessionDI.Controllers
 {
     public class HomeController : Controller
     {
@@ -101,12 +102,14 @@ namespace C__ASP_.Net_Core_MVC_2.Controllers
 
         public IActionResult Index()
         {
+            HttpContext.Session.SetString("SESSION_USER", "Tuan Dat");
             return View();
         }
 
         public IActionResult Privacy()
         {
-            return View();
+            var user = HttpContext.Session.GetString("SESSION_USER");
+            return View("Privacy", user);
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

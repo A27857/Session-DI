@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp3.1</TargetFramework>
-    <RootNamespace>C__ASP_.Net_Core_MVC_2</RootNamespace>
+    <RootNamespace>SessionDI</RootNamespace>
   </PropertyGroup>
 
 </Project>
